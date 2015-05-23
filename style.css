@@ -1,0 +1,11 @@
+html,body{
+	height:90%;
+	width:100%;
+}
+ul.a {
+	list-style-type:circle;
+}
+.contain {
+	display: inline-block;
+	margin: 1em;
+}
